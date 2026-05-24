@@ -1,3 +1,29 @@
+nuxbt (3.3.5-1~resolute1) resolute; urgency=medium
+
+  * New release 3.3.5
+  * ### Bug Fixes
+  * **input**: Fixes analog stick input on connected gamepads
+  *   ([#64](https://github.com/hannahbee91/nuxbt/pull/64),
+  *
+    [`f8d3c77`](https://github.com/hannahbee91/nuxbt/commit/f8d3c77b86f1
+    47c48a6375481b2789fab5f14d32))
+  * Closes #50
+
+ -- NUXBT Releases <nuxbt@hannahis.gay>  Sun, 24 May 2026 05:31:22 +0000
+
+nuxbt (3.3.5-1~noble1) noble; urgency=medium
+
+  * New release 3.3.5
+  * ### Bug Fixes
+  * **input**: Fixes analog stick input on connected gamepads
+  *   ([#64](https://github.com/hannahbee91/nuxbt/pull/64),
+  *
+    [`f8d3c77`](https://github.com/hannahbee91/nuxbt/commit/f8d3c77b86f1
+    47c48a6375481b2789fab5f14d32))
+  * Closes #50
+
+ -- NUXBT Releases <nuxbt@hannahis.gay>  Sun, 24 May 2026 05:28:58 +0000
+
 nuxbt (3.3.4-1~resolute1) resolute; urgency=medium
 
   * New release 3.3.4

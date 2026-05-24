@@ -1,6 +1,17 @@
 # CHANGELOG
 
 
+## v3.3.5 (2026-05-24)
+
+### Bug Fixes
+
+- **input**: Fixes analog stick input on connected gamepads
+  ([#64](https://github.com/hannahbee91/nuxbt/pull/64),
+  [`f8d3c77`](https://github.com/hannahbee91/nuxbt/commit/f8d3c77b86f147c48a6375481b2789fab5f14d32))
+
+Closes #50
+
+
 ## v3.3.4 (2026-05-14)
 
 ### Bug Fixes
