@@ -1,6 +1,15 @@
 # CHANGELOG
 
 
+## v3.3.6 (2026-05-31)
+
+### Bug Fixes
+
+- Recreate the web controller with the server event
+  ([#66](https://github.com/hannahbee91/nuxbt/pull/66),
+  [`0b3110e`](https://github.com/hannahbee91/nuxbt/commit/0b3110e5a1bb7ebf8670d913397928979278a7ce))
+
+
 ## v3.3.5 (2026-05-24)
 
 ### Bug Fixes

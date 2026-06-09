@@ -1,3 +1,27 @@
+nuxbt (3.3.6-1~resolute1) resolute; urgency=medium
+
+  * New release 3.3.6
+  * ### Bug Fixes
+  * Recreate the web controller with the server event
+  *   ([#66](https://github.com/hannahbee91/nuxbt/pull/66),
+  *
+    [`0b3110e`](https://github.com/hannahbee91/nuxbt/commit/0b3110e5a1bb
+    7ebf8670d913397928979278a7ce))
+
+ -- NUXBT Releases <nuxbt@hannahis.gay>  Sun, 31 May 2026 17:16:50 +0000
+
+nuxbt (3.3.6-1~noble1) noble; urgency=medium
+
+  * New release 3.3.6
+  * ### Bug Fixes
+  * Recreate the web controller with the server event
+  *   ([#66](https://github.com/hannahbee91/nuxbt/pull/66),
+  *
+    [`0b3110e`](https://github.com/hannahbee91/nuxbt/commit/0b3110e5a1bb
+    7ebf8670d913397928979278a7ce))
+
+ -- NUXBT Releases <nuxbt@hannahis.gay>  Sun, 31 May 2026 17:14:27 +0000
+
 nuxbt (3.3.5-1~resolute1) resolute; urgency=medium
 
   * New release 3.3.5
